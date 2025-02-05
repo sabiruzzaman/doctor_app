@@ -1,16 +1,15 @@
-# doctor_app
+🚀 Canva to Flutter UI Challenge - 1 🎨➡️📱
 
-A new Flutter project.
+As a Flutter learner, I picked a random UI design from Canva and challenged myself to recreate it in Flutter! 🛠️ This was a great way to practice UI development and improve my Flutter skills.
 
-## Getting Started
+🔹 Canva Design: [Canva UI](https://marketplace.canva.com/EAGYaHWP8ik/1/0/739w/canva-xX5j3iHJ2NQ.jpg)</br>
 
-This project is a starting point for a Flutter application.
+💡 What I Learned: </br>
+✅ How to break down UI into Flutter widgets </br>
+✅ Managing layout and responsiveness</br>
+✅ Selecting the right Flutter components</br>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🌟 Screenshots
+<div align="center">
+  <img src="screenshot/convert_flutter_ui_screenshot.png" alt="Screenshot 1" width="30%" >
+</div>
